@@ -1,0 +1,8 @@
+./calculo_integral
+calculo_integral/*
+output/*/*
+*.mp3
+*.mp4
+
+venv
+./venv/*
